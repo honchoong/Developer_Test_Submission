@@ -1,16 +1,18 @@
-
+#high throughput scenario
 high_throughput_cm = {
     "roundabout" : 50,
     "stop_sign" : 20,
     "traffic_lights" : 90
 }
 
+#medium throughput scenario
 medium_throughput_cm = {
     "roundabout" : 75,
     "stop_sign" : 30,
     "traffic_lights" : 75
 }
 
+#low throughput scenario
 low_throughput_cm = {
     "roundabout" : 90,
     "stop_sign" : 40,
